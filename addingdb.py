@@ -55,6 +55,3 @@ conn.close()
 
 print("Data inserted/updated in SQLite database.")
 
-
-
-
